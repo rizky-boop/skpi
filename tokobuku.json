@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5e1d747bc200900f90be1c98"},"judul":"Tutorial Ruby","harga":{"$numberInt":"300000"}}
+{"_id":{"$oid":"5e204b98ffdff926440038f2"},"judul":"Tutorial Python","harga":"500000","updated_at":{"$date":{"$numberLong":"1579174808000"}},"created_at":{"$date":{"$numberLong":"1579174808000"}}}
+{"_id":{"$oid":"5e204c3cffdff926440038f3"},"judul":"Tutorial Python 3","harga":"550000","updated_at":{"$date":{"$numberLong":"1579174972000"}},"created_at":{"$date":{"$numberLong":"1579174972000"}}}
+{"_id":{"$oid":"5e204cf0ffdff926440038f4"},"judul":"Tutorial MySQL","harga":"125000","updated_at":{"$date":{"$numberLong":"1579175152000"}},"created_at":{"$date":{"$numberLong":"1579175152000"}}}
+{"_id":{"$oid":"5e204d2dffdff926440038f5"},"judul":"Tutorial Oracle","harga":"550000","updated_at":{"$date":{"$numberLong":"1579175213000"}},"created_at":{"$date":{"$numberLong":"1579175213000"}}}
